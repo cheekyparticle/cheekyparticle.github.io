@@ -9,4 +9,4 @@ Welcome to my webpage, I'm research physicist who is interested in the fundament
 
 ### Other stuff
 
-### [CV](./cv.md)
+### [CV](./CV.md)

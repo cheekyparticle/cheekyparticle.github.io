@@ -70,7 +70,7 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 
 **Unravelling the DM mystery** (2018): *RAPIDD tutorial: a quick look at a new tool for direct detection analysis*, tutorial on how to run RAPIDD a software developed with collaborators. See [event page.](https://conference.ippp.dur.ac.uk/event/690/)
 
-**14th MultiDark Consolider Workshop** (2017): *Direct Detection, theoretical analysis*, plenary talk, see [even page.](https://workshops.ift.uam-csic.es/multidark14/program).
+**14th MultiDark Consolider Workshop** (2017): *Direct Detection, theoretical analysis*, plenary talk, see [even page.](https://workshops.ift.uam-csic.es/multidark14/program)
 
 **YTF 9** (2017): *Distinguishing Dark Matter in Direct Detection*, poster presentation followed by a parallel talk see [event page.](http://maths.dur.ac.uk/YTF/9/)
 
@@ -119,7 +119,7 @@ Matter with Direct Detection?*, talk given at IFT during a two week visit.
 
 **Dark Matter from aeV to ZeV**: Organiser, ran one of the evening 'cultural events', the pub-quiz. Oversaw the audio-visual equipment in the conference room, ensuring all talks were ready before each session. See [event](https://conference.ippp.dur.ac.uk/event/555/overview).
 
-**Young Theorists Forum 10**: Main organiser, oversaw the organisation of the event. Managed people on the committee ensuring the smooth running of the event and chaired sessions and ran the poster session, see website \href{http://maths.dur.ac.uk/YTF/11}{YTF}.
+**Young Theorists Forum 10**: Main organiser, oversaw the organisation of the event. Managed people on the committee ensuring the smooth running of the event and chaired sessions and ran the poster session, [see website](http://maths.dur.ac.uk/YTF/11).
 
 **Diversity and Equality Committee** (2016-2017): Reside on a Physics department committee which focuses on improving the work environment in the department to encourage those from any walk of life to flourish. In this role I organised a training event about workplace harassment and micro-aggression.
 

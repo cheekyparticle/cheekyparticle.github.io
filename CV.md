@@ -9,6 +9,11 @@
 - Webpage: https://cheekyparticle.github.io/
 
 ## Positions
+### Postdoctoral Researcher Astrocent Oct 2021 - Present
+At [Astrocent](https://astrocent.camk.edu.pl/), [Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences](https://www.camk.edu.pl/en/),
+ ul.Rektorska 4, 00-614 Warsaw, Poland.
+ Promoter is [Prof. Leszek Roszkowski.](https://astrocent.camk.edu.pl/?team=professor-leszek-roszkowski)
+
 ### Postdoctoral Researcher CP3 UCLouvain Oct 2019 - Sep 2021
 At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://uclouvain.be/en/research-institutes/irmp/cp3), Université catholique de Louvain,[EOS be.h](https://be-h.be/), *Precision predictions and indirect constraints for searches of hidden sectors at the LHC*, promoters are [Prof. Fabio Maltoni](https://cp3.irmp.ucl.ac.be/public/member/41/en) and [Dr Chiara Arina](https://cp3.irmp.ucl.ac.be/public/member/463/en).
 
@@ -28,17 +33,17 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 ### Preprints:
 
 1. "*Primordial Black Hole Evaporation and Dark Matter Production: II. Interplay with the Freeze-In/Out Mechanism*'',  A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [arXiv:2107.00016](https://arxiv.org/abs/2107.00016). *Submitted to PRD*.
-2. "*Primordial Black Hole Evaporation and Dark Matter Production: I. Solely Hawking radiation*'',  A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [{arXiv:2107.00013](https://arxiv.org/abs/2107.00013). *Submitted to PRD*.
-3. "*Distinguishing <img src="https://render.githubusercontent.com/render/math?math=U(1)_{L_\mu-L_{\tau}}" height="20"> from <img src="https://render.githubusercontent.com/render/math?math=U(1)_{L_\mu}" height="20"> as a solution for <img src="https://render.githubusercontent.com/render/math?math=(g-2)_\mu" height="20"> with neutrinos*", D.W.P. Amaral, D.G. Cerdeño, A. Cheek, P. Foldenauer,  [arXiv:2104.03297}](https://arxiv.org/abs/2104.03297). *Submitted to JHEP*.
+2. "*Primordial Black Hole Evaporation and Dark Matter Production: I. Solely Hawking radiation*'',  A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [arXiv:2107.00013](https://arxiv.org/abs/2107.00013). *Submitted to PRD*.
+
 
 ### Journal Publications:
-
-1. "*Robust Limits from Upcoming Neutrino Telescopes and Implications on Minimal Dark Matter Models", S. Basegmez Du Pree, C. Arina, A. Cheek, A. Dekker, M. Chianese, S. Ando, [\textit{JCAP} 05 (2021) 054](https://iopscience.iop.org/article/10.1088/1475-7516/2021/05/054).
-2. "*Light and Darkness: consistently coupling dark matter to photons via effective operators*", C. Arina, A. Cheek, K. Mimasu, L. Pagani,  [{*Eur. Phys. J.* C81 (2021) 3, 223}](https://link.springer.com/article/10.1140/epjc/s10052-021-09010-1)
-3. "*The dark matter component of the Gaia radially anisotropic substructure*", N. Bozorgnia, A. Fattahi, C. S. Frenk, A. Cheek, D. G. Cerdeño, F. A. Gómez, R. J. J. Grand, F. Marinacci,  [*JCAP* 07 (2020) 036](https://iopscience.iop.org/article/10.1088/1475-7516/2020/07/036)
-4. "*B anomalies and dark matter: a complex connection*", D. G. Cerdeño, A. Cheek, P. Martín-Ramiro and J. M. Moreno, [*Eur. Phys. J.* C79 (2019) 517](https://doi.org/10.1140/epjc/s10052-019-6979-x).
-5. "*Opening the energy window on direct dark matter detection*", N. Bozorgnia, D. G. Cerdeno, A. Cheek, B. Penning, [*JCAP* 12 (2018) 013](http://iopscience.iop.org/article/10.1088/1475-7516/2018/12/013/meta).
-6. "*Surrogate Models for Direct Dark Matter Detection*", D.G. Cerdeño, A. Cheek, E. Reid, H. Schulz, [*JCAP* 08 (2018) 011](http://iopscience.iop.org/article/10.1088/1475-7516/2018/08/011/meta).
+1. "*confirming <img src="https://render.githubusercontent.com/render/math?math=U(1)_{L_\mu-L_{\tau}}" height="20"> as a solution for <img src="https://render.githubusercontent.com/render/math?math=(g-2)_\mu" height="20"> with neutrinos*", D.W.P. Amaral, D.G. Cerdeño, A. Cheek, P. Foldenauer,  [*Eur. Phys. J.* C81 (2021) 861](https://doi.org/10.1140/epjc/s10052-021-09010-1).
+2. "*Robust Limits from Upcoming Neutrino Telescopes and Implications on Minimal Dark Matter Models*", S. Basegmez Du Pree, C. Arina, A. Cheek, A. Dekker, M. Chianese, S. Ando, [*JCAP* 05 (2021) 054](https://iopscience.iop.org/article/10.1088/1475-7516/2021/05/054).
+3. "*Light and Darkness: consistently coupling dark matter to photons via effective operators*", C. Arina, A. Cheek, K. Mimasu, L. Pagani,  [{*Eur. Phys. J.* C81 (2021) 3, 223](https://link.springer.com/article/10.1140/epjc/s10052-021-09010-1)
+4. "*The dark matter component of the Gaia radially anisotropic substructure*", N. Bozorgnia, A. Fattahi, C. S. Frenk, A. Cheek, D. G. Cerdeño, F. A. Gómez, R. J. J. Grand, F. Marinacci,  [*JCAP* 07 (2020) 036](https://iopscience.iop.org/article/10.1088/1475-7516/2020/07/036)
+5. "*B anomalies and dark matter: a complex connection*", D. G. Cerdeño, A. Cheek, P. Martín-Ramiro and J. M. Moreno, [*Eur. Phys. J.* C79 (2019) 517](https://doi.org/10.1140/epjc/s10052-019-6979-x).
+6. "*Opening the energy window on direct dark matter detection*", N. Bozorgnia, D. G. Cerdeno, A. Cheek, B. Penning, [*JCAP* 12 (2018) 013](http://iopscience.iop.org/article/10.1088/1475-7516/2018/12/013/meta).
+7. "*Surrogate Models for Direct Dark Matter Detection*", D.G. Cerdeño, A. Cheek, E. Reid, H. Schulz, [*JCAP* 08 (2018) 011](http://iopscience.iop.org/article/10.1088/1475-7516/2018/08/011/meta).
 
 ### Research Visits
 

@@ -37,7 +37,7 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 
 
 ### Journal Publications:
-1. "*confirming <img src="https://render.githubusercontent.com/render/math?math=U(1)_{L_\mu-L_{\tau}}" height="20"> as a solution for <img src="https://render.githubusercontent.com/render/math?math=(g-2)_\mu" height="20"> with neutrinos*", D.W.P. Amaral, D.G. Cerdeño, A. Cheek, P. Foldenauer,  [*Eur. Phys. J.* C81 (2021) 861](https://doi.org/10.1140/epjc/s10052-021-09010-1).
+1. "*confirming <img src="https://render.githubusercontent.com/render/math?math=U(1)_{L_\mu-L_{\tau}}" height="20"> as a solution for <img src="https://render.githubusercontent.com/render/math?math=(g-2)_\mu" height="20"> with neutrinos*", D.W.P. Amaral, D.G. Cerdeño, A. Cheek, P. Foldenauer,  [*Eur. Phys. J.* C81 (2021) 861](https://doi.org/10.1140/epjc/s10052-021-09670-z).
 2. "*Robust Limits from Upcoming Neutrino Telescopes and Implications on Minimal Dark Matter Models*", S. Basegmez Du Pree, C. Arina, A. Cheek, A. Dekker, M. Chianese, S. Ando, [*JCAP* 05 (2021) 054](https://iopscience.iop.org/article/10.1088/1475-7516/2021/05/054).
 3. "*Light and Darkness: consistently coupling dark matter to photons via effective operators*", C. Arina, A. Cheek, K. Mimasu, L. Pagani,  [{*Eur. Phys. J.* C81 (2021) 3, 223](https://link.springer.com/article/10.1140/epjc/s10052-021-09010-1)
 4. "*The dark matter component of the Gaia radially anisotropic substructure*", N. Bozorgnia, A. Fattahi, C. S. Frenk, A. Cheek, D. G. Cerdeño, F. A. Gómez, R. J. J. Grand, F. Marinacci,  [*JCAP* 07 (2020) 036](https://iopscience.iop.org/article/10.1088/1475-7516/2020/07/036)

@@ -40,7 +40,7 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 1. "*A direct detection view of the neutrino NSI landscape*", D.W.P. Amaral, D.G. Cerdeño, A. Cheek, P. Foldenauer, [*JHEP* 07 (2023) 071.](https://doi.org/10.1007/JHEP07(2023)071) 
 2. "*Isospin-violating dark matter at liquid noble detectors: new constraints, future projections, and an exploration of target complementarity*",  A. Cheek, D. D. Price, E. M. Sandford, [*Eur.Phys.J.C* 83 (2023) 10, 914.](https://doi.org/10.1140/epjc/s10052-023-11826-y) 
 3. "*Evaporation of Primordial Black Holes in the Early Universe: Mass and Spin Distributions*", A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [*Phys.Rev.D* 108 (2023) 1, 015005.](https://doi.org/10.1103/PhysRevD.108.015005) 
-4. "*Towards detecting super-GeV dark matter via annihilation to neutrinos*", L. Salvador Miranda, S. Basegmez du Pree, K. C. Y. Ng, A. Cheek, C. Arina , (*JCAP* 08 (2023) 006)[https://doi.org/10.1088/1475-7516/2023/08/006].
+4. "*Towards detecting super-GeV dark matter via annihilation to neutrinos*", L. Salvador Miranda, S. Basegmez du Pree, K. C. Y. Ng, A. Cheek, C. Arina , [*JCAP* 08 (2023) 006](https://doi.org/10.1088/1475-7516/2023/08/006).
 5. "*Dark matter production through a non-thermal flavon portal*", A. Cheek, J. K. Osinski, L. Roszkowski, S. Trojanoski, [*JHEP* 03 (2023) 149.](https://doi.org/10.1007/JHEP03(2023)149) 
 6. "*Redshift Effects in Particle Production from Kerr Primordial Black Holes*",  A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [*Phys.Rev.D* 106 (2022) 10, 103012.](https://link.aps.org/doi/10.1103/PhysRevD.106.103012)
 7. "*Primordial Black Hole Evaporation and Dark Matter Production: II. Interplay with the Freeze-In/Out Mechanism*",  A. Cheek, L. Heurtier, Y. F. Perez-Gonzalez, J. Turner, [*Phys.Rev.D* 105 (2022) 1, 015023.](https://lss.fnal.gov/archive/2021/pub/fermilab-pub-21-305-t.pdf) Editors Suggestion.
@@ -53,58 +53,76 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 14. "*Opening the energy window on direct dark matter detection*", N. Bozorgnia, D. G. Cerdeno, A. Cheek, B. Penning, [*JCAP* 12 (2018) 013](http://iopscience.iop.org/article/10.1088/1475-7516/2018/12/013/meta).
 15. "*Surrogate Models for Direct Dark Matter Detection*", D.G. Cerdeño, A. Cheek, E. Reid, H. Schulz, [*JCAP* 08 (2018) 011](http://iopscience.iop.org/article/10.1088/1475-7516/2018/08/011/meta).
 
-### Research Visits
+# Conference, Workshop talks and Poster Presentations by topic
 
-- **InvisiblesPLUS** (2019): secondment of 1 month at Kavli IPMU, working with Dr. Tom Melia.
-- **InvisiblesPLUS** (2018): secondment of 1 month at Fermilab, working with Dr. Pedro Machado and Dr Jessica Turner. There I initiated a new collaboration.
-- **Volunteer UG researcher** (2014): volunteer undergraduate researcher under the supervision of C. Boehm studying astrophysical implications for self interacting DM. Produced a literature review on the topic.
+- Main program or plenary talks: 13
+- Parallel talks: 6
+- Proceedings: 2
+- Software tutorial: 1
+- Poster presentations: 4
 
-### Conference and Workshop talks
+**Primordial black hole evaporation and dark matter production:**
+- [NEHOP 2023 (New Horizons in Primordial Black Hole Physics)](https://conference.ippp.dur.ac.uk/event/1130/) in Naples, talk
+- [19th MultiDark Consolider Workshop (2022)](https://workshops.ift.uam-csic.es/multidark19/program) in Madrid, talk
+- [Kashiwa Dark Matter Symposium 2021](https://2021.kashiwa-darkmatter-symposia.org/) talk
+- [Dark Matter 2021 (Santander)](https://indico.ifca.es/event/1199/) talk
 
-- **ICRC 2021** (July 2021): *Dark Matter Phenomenology from Upcoming Neutrino Telescopes*, parallel talk and discussion forum, see [event page](https://icrc2021.desy.de/) and [proceedings](https://pos.sissa.it/395/550/pdf).
+**Dark matter production through a non-thermal flavon portal:**
+- [25th international Planck conference (2023)](http://indico.fuw.edu.pl/conferenceDisplay.py?ovw=True&confId=68) parallel talk
 
-- **WIN2021** (June 2021): *Dark Matter Phenomenology from Upcoming Neutrino Telescopes*, asynchronous talk and panel member, see [event page](http://win2021.umn.edu/), [talk slides](https://indico.fnal.gov/event/44492/contributions/214678/attachments/144200/182947/presentation.pdf) and [video](https://www.youtube.com/watch?v=xIuGwu0agvQ)
+**Neutrino physics in direct detection experiments:**
+- [Neutriverse 2022 workshop](https://indico.nikhef.nl/event/3925/) talk
+- [IDM 2022](https://indico.cern.ch/event/922783/) parallel talk
+- [TAUP 2021](https://congresos.adeituv.es/TAUP2021/) poster and [proceedings](https://doi.org/10.1088/1742-6596/2156/1/012215)
 
-**3rd ICTP-SAIFR South American Dark Matter Workshop** (Dec 2020): *New insights into dark matter from EFT basics*, see [event page](https://www.ictp-saifr.org/dmw2020/) and [video](https://www.youtube.com/watch?v=0kdw5grcIfo&feature=youtu.be&t=1534).
+**Dark Matter Phenomenology in Neutrino Telescopes:**
+- [ICRC 2021](https://icrc2021.desy.de/) parallel talk, discussion forum, and [proceedings](https://pos.sissa.it/395/550/pdf)
+- [WIN2021](http://win2021.umn.edu/) asynchronous (parallel) [talk](https://www.youtube.com/watch?v=xIuGwu0agvQ) and panel member
 
-**IRN Terascale Meeting** (Nov 2020): *New insights into dark matter from EFT basics*, see [event page](https://indico.in2p3.fr/event/22572/overview) and [talk slides](https://indico.in2p3.fr/event/22572/contributions/87935/attachments/60644/82497/Cheek_slides.pdf).
+**Dark Matter effective interactions with photons:**
+- [3rd ICTP-SAIFR South American Dark Matter Workshop (2020)](https://www.ictp-saifr.org/dmw2020/) talk
+- [IRN Terascale Meeting (2020)](https://indico.in2p3.fr/event/22572/overview) talk
+- [Dark World to Swampland, IBS-IFT-MultiDark workshop](https://indico.ibs.re.kr/event/369/) plenary [talk](https://youtu.be/pRbG3vCkzyY?t=5012)
 
-**Dark World to Swampland, IBS-IFT-MultiDark workshop** (2020): *New insights into dark matter from EFT basics*, plenary talk, see [event page](https://indico.ibs.re.kr/event/369/), [talk slides](https://mybinder.org/v2/gh/cheekyparticle/IBS-IFT2020/main?filepath=DMEFT_slides.ipynb) and [video](https://youtu.be/pRbG3vCkzyY?t=5012).
+**Dark matter parameter reconstruction with direct detection and the use of surrogate models to efficiently sample parameter space:**
+- [Invisibles workshop 2018](https://indico.scc.kit.edu/event/357/) PhD forum talk
+- [Dark Matter UK meeting (2018)](https://conference.ippp.dur.ac.uk/event/692/) talk
+- [Dark Side of the Universe 2018](https://indico.in2p3.fr/event/14719/) parallel talk
+- [Preparing for Dark Matter Particle Discovery (2018)](https://indico.cern.ch/event/666809/) talk
+- [MC4BSM (2018)](https://conference.ippp.dur.ac.uk/event/656/) talk, [Unravelling the DM mystery (2018)](https://conference.ippp.dur.ac.uk/event/690/) RAPIDD code tutorial and talk
+- [14th MultiDark Consolider Workshop (2017)](https://workshops.ift.uam-csic.es/multidark14/program) talk
+- [YTF 9](http://maths.dur.ac.uk/YTF/9/) poster and parallel talk
 
-**Invisibles workshop 2018**: *Using Surrogate Models for Direct Detection*, PhD Forum plenary talk, see [event page.](https://indico.scc.kit.edu/event/357/)
 
-**Dark Matter UK Meeting** (July 2018): *Challenges to parameter reconstruction in direct detection*, plenary talk, see [event page.](https://conference.ippp.dur.ac.uk/event/692/)
+# Invited Seminars
 
-**Dark Side of the Universe 2018** (2018): *Surrogate Models for Direct Dark Matter Detection*, parallel talk, see [event page](https://indico.in2p3.fr/event/14719/).
+**DAMTP, Cambridge University, UK** (DEC 2023): *The dynamic Universe of preferred axion models*, see [event page](https://talks.cam.ac.uk/talk/index/207376).
 
-**Preparing for Dark Matter Particle Discovery** (2018): *Surrogate Models for Direct Dark Matter Detection*, plenary talk, see [event page](https://indico.cern.ch/event/666809/).
+**CP3, UCLouvain, Belgium** (DEC 2023): *The dynamic Universe of preferred axion models*, see [event page](https://agenda.irmp.ucl.ac.be/event/5059/).
 
-**MC4BSM** (2018): *Surrogate Models for Direct Dark Matter Detection*, plenary talk, see [event page.](https://conference.ippp.dur.ac.uk/event/656/).
+**Jagiellonian University, Krakow, Poland** (NOV 2023): *Evaporating primordial black holes and BSM*.
 
-**Unravelling the DM mystery** (2018): *RAPIDD tutorial: a quick look at a new tool for direct detection analysis*, tutorial on how to run RAPIDD a software developed with collaborators. See [event page.](https://conference.ippp.dur.ac.uk/event/690/)
+**ICCUB, Barcelona** (OCT 2023): *The dynamic Universe of preferred axion models*, see [event page](https://icc.ub.edu/event/dynamic-universe-preferred-axion-models).
 
-**14th MultiDark Consolider Workshop** (2017): *Direct Detection, theoretical analysis*, plenary talk, see [even page.](https://workshops.ift.uam-csic.es/multidark14/program)
+**University of Warsaw, ["Particle Theory and Cosmology" Seminar](https://www.fuw.edu.pl/event-reader/event9038.html)** (Dec 2022): *Primordial Black Hole Evaporation: implications for dark matter and dark radiation*.
 
-**YTF 9** (2017): *Distinguishing Dark Matter in Direct Detection*, poster presentation followed by a parallel talk see [event page.](http://maths.dur.ac.uk/YTF/9/)
+**Max-Planck-Institut für Astrophysik Cosmology Seminar** (Nov 2022): *Primordial Black Hole Evaporation before BBN*.
 
-### Poster Presentations
+**Technical University Munich Elementary Particle Physics Journal Club** (Nov 2022): *Primordial Black Hole Evaporation: implications for dark matter and dark radiation*.
 
-**UK High Energy Physics Forum 2017**: *RAPIDD: Reconstruction tool for Direct Detection*, poster presentation.
+**King's College London TPPC seminar** (Sep 2022): *Primordial black hole evaporation and dark matter production*.
 
-**Invisibles School 2017**: *Generalising Direct Detection of Dark Matter*, poster presentation.
+**Majorana-Raychaudhuri Seminars** (Feb 2022): *The Interplay Between Primordial Black Hole Evaporation and Dark Matter Production*, seminar given virtually. See the [seminar series website](https://sites.google.com/view/joint-seminars-salerno-kolkata/home).
 
-### Invited Seminars
+**TTK, RWTH Aachen, Dark Matter Journal Club** (Nov 2020): *New insights into dark matter from EFT basics*, seminar given virtually.
 
-**TTK, RWTH Aachen, Dark Matter Journal Club** (Nov 2020): *New insights into dark matter from EFT basics*, seminar given virtually.  
+**Bohr Lunch seminar** (Feb 2020): *Particle and Astrophysical implications for direct detection*, seminar given at Manchester University Particle Physics group.
 
-**Bohr Lunch seminar** (Feb 2020): *Particle and Astrophysical implications for direct detection* seminar given at Manchester University Particle Physics group.
+**CP3 Seminar** (Jan 2020): *How stellar substructure in our galaxy changes our view of dark matter*, seminar given at Université catholique de Louvain.
 
-**CP3 Seminar** (Jan 2020): *How stellar substructure in our galaxy changes our view of dark matter* seminar given at Université catholique de Louvain.
+**McDonald Institute seminar** (Sep 2018): *Making the most of Direct Detection*, seminar given during a visit to Queen's University, Canada. See [McDonald Institute website](https://mcdonaldinstitute.ca/).
 
-**McDonald Institute seminar** (Sep 2018) : *Making the most of Direct Detection* seminar given during a visit to Queen's University, Canada. See [McDonald Institute website](https://mcdonaldinstitute.ca/).
-
-**IFT Astroparticle Journal club seminar** (April 2017): *How far can we push Dark
-Matter with Direct Detection?*, talk given at IFT during a two week visit.
+**IFT Astroparticle Journal club seminar** (April 2017): *How far can we push Dark Matter with Direct Detection?*, talk given at IFT during a two-week visit.
 
 ### Teaching
 

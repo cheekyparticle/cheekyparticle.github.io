@@ -54,7 +54,7 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 
 # Conference, Workshop talks and Poster Presentations by topic
 
-- Main program or plenary talks: 13
+- Main program or plenary talks: 14
 - Parallel talks: 6
 - Proceedings: 2
 - Software tutorial: 1

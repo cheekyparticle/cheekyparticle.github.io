@@ -123,21 +123,57 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 
 **IFT Astroparticle Journal club seminar** (April 2017): *How far can we push Dark Matter with Direct Detection?*, talk given at IFT during a two-week visit.
 
-### Teaching
+# Teaching and Outreach
 
-**Introduction to Dark Matter Lecture Series** (Nov 2020): I have prepared and administered a short introduction to dark matter lecture course for Masters Students at UCLouvain. 
+## Student Supervision/Co-supervision
+- **2022/3** - Gian Marco Luchetti, Masters Student, University of Bologna.
+- **2022** - Piotr Toczek, Masters Student, Warsaw University. Now PhD student at University of Warsaw.
+- **2021** - Dorian W. P. Amaral, PhD Student, Durham University. Now postdoc at Rice University.
+- **2020** - Veronika Fedotovs, Masters Student, University of Bologna.
+- **2020** - Luca Pagani, PhD Student, University of Bologna.
+- **2019** - Ellen Sandford, PhD Student, University of Manchester. Now postdoc in University of Liverpool.
+- **2019** - Julia Sisk Reynes, Summer Student, University of Manchester.
 
-**Project advisory role** (2019-current): I have undertaken various advisory roles with PhD and Masters students advising them through a project or a significant body of work. This includes collaborative projects which lead to publications, but also projects that are solely part of their educational requirements.
+## Lecturing and Producing Teaching Materials
+- Prepared and delivered a short 6 hour lecture course introducing dark matter particle physics for Masters students at UCLouvain (2020).
+- Designed and delivered a 6 hour introduction to coding course for the Durham University Foundation program (2018).
+- Was responsible for the Durham University physics foundation program's `problem-solving` module, included producing all materials and weekly classes as well as an exam (2017-2019).
 
-**Introduction to Coding** (Oct 2018): Designed and delivered an introduction to python course for the Durham Foundation program.
+## Tutoring
+- Durham University level 1 Physics (MPhys) tutor for two small groups throughout the academic year (2016-2019).
+- Durham University level 3 workshop demonstrator for Theoretical Physics module (2015-2016).
+- Private physics and maths tutor (2014-2016).
 
-**Durham Foundations Centre Problems Solving Instructor** (2017-2019): Run a module for those undertaking the foundation year in Physics, offered by the Durham Centre for Academic Development (Durham University). Requires me to design the module and class work as well as writing and marking the final examination.
+## Outreach Activities
+- Scientific advisor to short film *In the Dark* (2021-2022).
+- Producer of material for the [2021 INFIERI Summer school at IFT Madrid](http://infieri2020.ft.uam.es/ciaff/general/ift-centre). Open the [binder link](https://mybinder.org/v2/gh/cheekyparticle/INFIERI/HEAD?filepath=INFIERI_SCHOOL.ipynb) for materials.
+- Main organiser for [modelling the invisible](https://www.modellinginvisible.org/) exhibit at the Royal Society, I was involved in every stage of the process, from application to the Royal Society to delivering the exhibit. Helped develop the software for the SuperCDMS replica and built and ran the website. I also undertook a day course in science communication at the Royal Society and gave a Seminar about it in Durham.
+- Gave lecture on collider physics for the [Particle Physics masterclass](https://conference.ippp.dur.ac.uk/event/657/) at Durham University (2018).
+- Volunteer at Royal Society Summer exhibition [ghosts in the universe](https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/ghosts-in-universe/).
+- Volunteer at Green Man Festival for Quantum secrets of photosynthesis.
 
-**Durham level 1 Foundations of Physics tutor** (2016-2019): Tutor for two groups of around 5 students. Requires me to guide them through a general first year physics course, teaching them problem solving skills in Physics. Also requires marking of weekly problem sheets.
 
-**Durham level 3 tutor** (2015-2016): Workshop demonstrator for Theoretical Physics 3 at Durham University. Topics were relativistic electrodynamics, scattering theory in quantum mechanics and relativistic quantum mechanics.
+# Positions of Responsibility
 
-**Physics and Maths tutor** (2014-2016): Various private roles as a mathematics and physics tutor for high school and university topics such as quantum mechanics, electromagnetism and nuclear physics.
+## Referee in the Peer Review Process
+I have acted as a referee for PRL, PRD, and JCAP.
+
+## Conference and Scientific Event Organizer
+- Scientific committee member for [NEHOP 2023](https://conference.ippp.dur.ac.uk/event/1130/).
+- Main organizer for [Modelling the Invisible](https://www.youtube.com/watch?v=TxSUw38a4Vg) exhibit at the Royal Society Summer Exhibition 2017.
+- Main organizer for the [YTF9](http://maths.dur.ac.uk/YTF/9) and [YTF10](http://maths.dur.ac.uk/YTF/10) conferences.
+- Organizer for [Dark Matter from aeV to ZeV](https://conference.ippp.dur.ac.uk/event/555/overview) conference.
+- Organizer for [YETI 2019](https://conference.ippp.dur.ac.uk/event/723/) workshop.
+
+## Committee Board Member
+- Diversity and Equality Committee (2016-2017)
+- Postgraduate Student Staff Consultative Committee (2016-2019).
+
+# Other Skills/Qualifications
+
+## Project Management
+- AgilePM foundation and practitioner qualifications were obtained in 2021.
+- Prince2 Foundation qualification obtained in March 2022.
 
 ### Positions of responsibility
 
@@ -157,19 +193,6 @@ At the [Centre for Cosmology, Particle Physics and Phenomenology (CP3)](https://
 
 **Postgraduate Student Staff Consultative Committee** (2016-2019): Reside on a committee to make postgraduate students' concerns and opinions known to members of staff within the Physics department.
 
-
-### Outreach
-
-**INFIERI Summer school at IFT Madrid** (Summer 2021): Co-wrote a 3 hour tutorial to give masters students a sense of what it means to search for dark matter. Developed the interactive part of the tutorial. [Event page](http://infieri2020.ft.uam.es/ciaff/general/ift-centre).
-Open the binder link and wait for it to load (~2 mins).
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cheekyparticle/INFIERI/HEAD?filepath=INFIERI_SCHOOL.ipynb)
-
-
-**Particle Physics Masterclass** (2018): *The Z Boson at the ATLAS experiment*, talk to introduce students on how to detect particle events in LHC data. [see event page.](https://conference.ippp.dur.ac.uk/event/657/)
-
-**Royal Society Summer Exhibition** (2018): Volunteer at national outreach event at the Royal Society, London,  [ghosts in the universe.](https://ghostsintheuniverse.org/)
-
-**Green Man Festival Outreach Scientist** (2017): Volunteer with the UCL led group, *Quantum secrets of Photosynthesis*. Helped build the stand as well as engage with festival goers about physics.
 
 ### Other skills
 

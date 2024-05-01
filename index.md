@@ -10,7 +10,7 @@ The mystery of dark matter has been the biggest driving force in my research to 
 
 Unsatisfied with this understanding physicists want to explain the deep nature of dark matter, like whether or not it can described as a fundamental particle, how it was created and why is it so abundant yet weakly interacting. The promising feature of this endevour is that many production mechanisms for dark matter require certain properties which are then testable. 
 
-
-### Other stuff
-
 ### [CV](./CV.md)
+
+Outside of physics I'm passionately about music. I have been in a few different bands over the years, but the pinneacle for me has to be creating the album with my friends in the Monroes, you can listen to our album on [Spotify](https://open.spotify.com/album/6n4GiAkPmmHKZVEuOYTfvh), [Apple music](https://music.apple.com/album/the-monroes/1313845700) or [YouTube](https://youtu.be/pkBb14WiB5c?si=wz03TuCJHsGREkAB). 
+
